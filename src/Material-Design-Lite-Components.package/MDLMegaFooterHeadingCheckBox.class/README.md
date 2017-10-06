@@ -1,1 +1,0 @@
-Checkbox for collapsible footers

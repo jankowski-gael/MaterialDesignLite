@@ -1,1 +1,0 @@
-I'm a Panel that can be used as a Tab

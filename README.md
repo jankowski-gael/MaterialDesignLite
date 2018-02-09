@@ -7,7 +7,7 @@ Master: [![Build Status](https://travis-ci.org/DuneSt/MaterialDesignLite.svg?bra
 Master: [![Build status](https://ci.appveyor.com/api/projects/status/1d20eiwk92jpgfni/branch/master?svg=true)](https://ci.appveyor.com/project/jecisc/materialdesignlite/branch/master) | Latest commit: [![Build status](https://ci.appveyor.com/api/projects/status/1d20eiwk92jpgfni?svg=true)](https://ci.appveyor.com/project/jecisc/materialdesignlite)
 
 
-This project has as first goal to bind the Google's Material Design Lite project to Seaside and as second goal to build widgets on top of Material Design to help Seaside developers in creating fast web application with flat design.
+This project has as first goal to bind the Google's Material Design Lite project to Seaside and as second goal to build widgets on top of Material Design to help Seaside [http://seaside.st](http://seaside.st) developers in creating fast web application with flat design. Check [http://book.seaside.st](http://book.seaside.st).
 
 # Documentation
 
@@ -35,6 +35,19 @@ We use as a base the files product by Google's Material Design Lite. To have a w
 Most of them can be easily added via a file library but one file need to be explicitely added because this file change depending on the colors you wish for your application.
 
 For now MDL Seaside is based on version 1.3.0 of Google's Material Design Lite.
+
+
+## Check if MDL is running
+
+* Open Seaside Control panel
+* If there is no HTTP running, start it.
+* If there is no HTTP, add ZnZincServerAdaptor and start it.
+* Check the demo running at: [http://localhost:8080/MDLComponentsDemoApplication](http://localhost:8080/MDLComponentsDemoApplication)
+
+
+
+
+# Using MDL
 
 ### Add the right libraries and file
 

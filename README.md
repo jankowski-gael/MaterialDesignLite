@@ -21,6 +21,8 @@ To install MaterialDesignLite on your Pharo image you can just execute the follo
     	onWarningLog;
     	load
 
+## How to depend on a MDL for your own project
+
 To add MaterialDesignLite Seaside to your baseline just add this:
 
     spec
